@@ -1,7 +1,7 @@
 ### Oi mundo, eu sou o Tiago 👋
 
 - 🔭 Estudando SI na UFRRJ
-- 🌱 Aprendendo francês e IA
+- 🌱 Aprendendo francês
 - ⚡ Fun fact: o renomeado TecMundo publicou uma matéria sobre o meu desenvolvimento e publicação de um jogo para Android ainda quando adolescente, mesmo sem atuar na área.
 
 <div style="display: inline_block"><br>
