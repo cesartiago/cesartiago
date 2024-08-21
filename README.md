@@ -4,10 +4,6 @@
 - 🌱 Aprendendo francês e IA
 - ⚡ Fun fact: o renomeado TecMundo publicou uma matéria sobre o meu desenvolvimento e publicação de um jogo para Android ainda quando adolescente, mesmo sem atuar na área.
 
-<div align="center">
-  <a href="https://github.com/cesartiago">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesartiago&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Tiago-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
